@@ -1,3 +1,4 @@
 There are different sizes of datasets
 each CSV file consists of records:  
 Employee_ID;Salary;Department
+There oredered and unordered datasets. This helped in analysing the efficiency of the data structures used
