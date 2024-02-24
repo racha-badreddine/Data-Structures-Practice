@@ -1,0 +1,3 @@
+There are different sizes of datasets
+each CSV file consists of records:  
+Employee_ID;Salary;Department
